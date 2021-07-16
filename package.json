@@ -1,0 +1,24 @@
+{
+  "name": "app-rocket.q",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido durante a NLW-06",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasandrades/app-rocket.q.git"
+  },
+  "keywords": [],
+  "author": "Lucas Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasandrades/app-rocket.q/issues"
+  },
+  "homepage": "https://github.com/lucasandrades/app-rocket.q#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
